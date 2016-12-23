@@ -6,7 +6,7 @@ import { Router, Route, browserHistory } from 'react-router';
 
 render((
 		<Router history={ browserHistory }>
-	    	<Route path="/home" component={App}/>
+	    	<Route path="/homeAdmin" component={App}/>
 
  		</Router>
  		),document.querySelector('#adminx'));
