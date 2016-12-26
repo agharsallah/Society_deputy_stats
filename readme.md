@@ -2,11 +2,12 @@
 
 ###Idea generation:
 
-problematic
-........................
-*lack of scientefic stats
+<h3>problematic</h3> </br>
+........................</br>
+*lack of scientefic stats</br>
 
-Solution
+<h3>Solution</h3>
+
 
 - as a dep mem the main functionality would be to easily access the statistics of my region .
 - search for a certain stat .
