@@ -4,14 +4,12 @@
 
 problematic
 ........................
-lack of scientefic stats
+* lack of scientefic stats
 
--as a dep mem the main functionality would be to easily 
-access the statistics of my region 
--search for a certain stat 
-
--the data should be easily updated by the INS 
-- it would even be better to see some experts opinion and their analysis
+- as a dep mem the main functionality would be to easily access the statistics of my region .
+- search for a certain stat .
+- the data should be easily updated by the INS .
+- it would even be better to see some experts opinion and their analysis.
 
 
 ###Node-Login is built on top of the following libraries :
