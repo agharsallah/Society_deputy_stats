@@ -4,7 +4,9 @@
 
 problematic
 ........................
-* lack of scientefic stats
+*lack of scientefic stats
+
+Solution
 
 - as a dep mem the main functionality would be to easily access the statistics of my region .
 - search for a certain stat .
