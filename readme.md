@@ -3,9 +3,7 @@
 ###Idea generation:
 
 <h3>problematic</h3> </br>
-........................</br>
-*lack of scientefic stats</br>
-
+- lack of scientefic stats</br>
 <h3>Solution</h3>
 
 
