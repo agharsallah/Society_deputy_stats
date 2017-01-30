@@ -71,7 +71,7 @@
 	  _reactRouter.Router,
 	  { history: _reactRouter.browserHistory },
 	  _react2.default.createElement(_reactRouter.Route, { path: '/home', component: _App2.default })
-	), document.querySelector('#simplex'));
+	), document.querySelector('#adminx'));
 
 /***/ },
 /* 2 */
@@ -21563,7 +21563,7 @@
 	               _react2.default.createElement(
 	                  'h1',
 	                  null,
-	                  'HI Simple'
+	                  'HI Admin'
 	               )
 	            )
 	         );
